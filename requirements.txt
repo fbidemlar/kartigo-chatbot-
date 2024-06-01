@@ -1,0 +1,6 @@
+pip==24.1b1
+pydantic
+pydantic_settings
+aiogram==3.5.0
+sqlalchemy
+alembic
